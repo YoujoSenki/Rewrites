@@ -88,4 +88,4 @@ client = Bot(
 # Добавление тестового кога
 client.add_cog(Cog(client))
 # Запуск бота
-client.run("MTAxMTY4MDg5OTA4NTExMTM4Ng.GlJuXb.O-xVf-7H2wdK448NtdqulIs6GcE4MgR8F8wX9c")
+client.run("TOKEN")
